@@ -1,3 +1,9 @@
+# README
+## IMPORTANT: This is a fork
+
+This is a fork of the ICE open-source project for use by CANImmunize. The vaccination schedules have been modified to reflect the needs of pediatric transplant patients, and may not be appropriate for everyone. 
+
+## The ICE Open-Source Project
 Information about the ICE open-source project is available at https://cdsframework.atlassian.net/wiki/spaces/ICE/overview. 
 
 Latest news about ICE is at https://cdsframework.atlassian.net/wiki/spaces/ICE/pages/23920670/News
