@@ -14,7 +14,7 @@ ENV REMOTE_CONFIG_USER="remote_admin"
 ENV REMOTE_CONFIG_PASSWORD="password"
 
 # Tomcat Server
-EXPOSE 80
+EXPOSE 8080
 
 RUN adduser -u 1000 -D appuser && \
     apk --no-cache -U upgrade --available && \
